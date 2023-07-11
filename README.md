@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <meta charset="utf-8">
-    <title>lipsync-mediapipe README</title>
-</head>
 <body>
     <h1 align="center">👄 lipsync-mediapipe 🗣️</h1>
     <p align="center">
