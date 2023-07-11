@@ -1,0 +1,10 @@
+cv2
+ffmpeg
+joblib
+librosa
+matplotlib
+mediapipe
+numpy
+Pillow
+scikit-learn
+vit-pytorch
