@@ -3,7 +3,7 @@
 <body>
     <h1 align="center">👄 lipsync-mediapipe 🗣️</h1>
     <p align="center">
-        <b>lipsync-mediapipe</b> is a project that learns facial landmark shapes from speech audio using Python 3.8.
+        <b>lipsync-mediapipe</b> is a project that learns facial landmark shapes from speech audio using Python 3.8. The project uses an innovative approach by mapping melspectrogram slices into 1D arrays of facial landmarks structured as [x1, y1, z1, x2, y2, z2... etc].
     </p>
     <hr>
     <h2>💻 Setup Environment</h2>
